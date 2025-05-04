@@ -1,0 +1,51 @@
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.csproj.AssemblyReference.cache
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.AssemblyInfoInputs.cache
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.AssemblyInfo.cs
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.csproj.CoreCompileInputs.cache
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Service.deps.json
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Service.dll
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Service.pdb
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Core.dll
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Data.dll
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Core.pdb
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Data.pdb
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeRepo.EE13AEDC.Up2Date
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.dll
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\refint\TimeReporting.Service.dll
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.pdb
+C:\Users\שהם\Desktop\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\ref\TimeReporting.Service.dll
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Service.deps.json
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Service.dll
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Service.pdb
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Core.dll
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Data.dll
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Core.pdb
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Data.pdb
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.csproj.AssemblyReference.cache
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.AssemblyInfoInputs.cache
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.AssemblyInfo.cs
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.csproj.CoreCompileInputs.cache
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeRepo.EE13AEDC.Up2Date
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.dll
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\refint\TimeReporting.Service.dll
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.pdb
+E:\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\ref\TimeReporting.Service.dll
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Service.deps.json
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Service.dll
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Service.pdb
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Core.dll
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Data.dll
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Core.pdb
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\bin\Debug\net9.0\TimeReporting.Data.pdb
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.csproj.AssemblyReference.cache
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.AssemblyInfoInputs.cache
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.AssemblyInfo.cs
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.csproj.CoreCompileInputs.cache
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeRepo.EE13AEDC.Up2Date
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.dll
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\refint\TimeReporting.Service.dll
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\TimeReporting.Service.pdb
+C:\Users\שהם\Desktop\‏‏תיקיה חדשה\TimeReporting\TimeReporting.Service\obj\Debug\net9.0\ref\TimeReporting.Service.dll

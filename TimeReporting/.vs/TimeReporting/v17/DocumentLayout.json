@@ -1,0 +1,494 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46ED166A-D0F1-4939-A2C0-AEF085F948D6}|TimeReporting\\TimeReporting.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46ED166A-D0F1-4939-A2C0-AEF085F948D6}|TimeReporting\\TimeReporting.csproj|solutionrelative:timereporting\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF0FE90-BC58-4F2C-87DF-CF8E0B736BFF}|TimeReporting.Service\\TimeReporting.Service.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.service\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF0FE90-BC58-4F2C-87DF-CF8E0B736BFF}|TimeReporting.Service\\TimeReporting.Service.csproj|solutionrelative:timereporting.service\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF0FE90-BC58-4F2C-87DF-CF8E0B736BFF}|TimeReporting.Service\\TimeReporting.Service.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF0FE90-BC58-4F2C-87DF-CF8E0B736BFF}|TimeReporting.Service\\TimeReporting.Service.csproj|solutionrelative:timereporting.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.core\\interface\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|solutionrelative:timereporting.core\\interface\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46ED166A-D0F1-4939-A2C0-AEF085F948D6}|TimeReporting\\TimeReporting.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46ED166A-D0F1-4939-A2C0-AEF085F948D6}|TimeReporting\\TimeReporting.csproj|solutionrelative:timereporting\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.core\\dtos\\dtoleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|solutionrelative:timereporting.core\\dtos\\dtoleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF0FE90-BC58-4F2C-87DF-CF8E0B736BFF}|TimeReporting.Service\\TimeReporting.Service.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF0FE90-BC58-4F2C-87DF-CF8E0B736BFF}|TimeReporting.Service\\TimeReporting.Service.csproj|solutionrelative:timereporting.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF0FE90-BC58-4F2C-87DF-CF8E0B736BFF}|TimeReporting.Service\\TimeReporting.Service.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.service\\worklogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF0FE90-BC58-4F2C-87DF-CF8E0B736BFF}|TimeReporting.Service\\TimeReporting.Service.csproj|solutionrelative:timereporting.service\\worklogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.core\\dtos\\dtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|solutionrelative:timereporting.core\\dtos\\dtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.core\\dtos\\dtoworklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|solutionrelative:timereporting.core\\dtos\\dtoworklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|solutionrelative:timereporting.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.core\\entities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|solutionrelative:timereporting.core\\entities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46ED166A-D0F1-4939-A2C0-AEF085F948D6}|TimeReporting\\TimeReporting.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting\\controllers\\worklogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46ED166A-D0F1-4939-A2C0-AEF085F948D6}|TimeReporting\\TimeReporting.csproj|solutionrelative:timereporting\\controllers\\worklogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.core\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|solutionrelative:timereporting.core\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.core\\interface\\iworklogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|solutionrelative:timereporting.core\\interface\\iworklogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46ED166A-D0F1-4939-A2C0-AEF085F948D6}|TimeReporting\\TimeReporting.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46ED166A-D0F1-4939-A2C0-AEF085F948D6}|TimeReporting\\TimeReporting.csproj|solutionrelative:timereporting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TimeReporting/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46ED166A-D0F1-4939-A2C0-AEF085F948D6}|TimeReporting\\TimeReporting.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46ED166A-D0F1-4939-A2C0-AEF085F948D6}|TimeReporting\\TimeReporting.csproj|solutionrelative:timereporting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.data\\migrations\\20250503182030_timereporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|solutionrelative:timereporting.data\\migrations\\20250503182030_timereporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.core\\entities\\worklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E4EA21-FB32-4E90-B3C2-2F24436F1F60}|TimeReporting.Core\\TimeReporting.Core.csproj|solutionrelative:timereporting.core\\entities\\worklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|solutionrelative:timereporting.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.data\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|solutionrelative:timereporting.data\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.data\\migrations\\20250420153008_timereportingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|solutionrelative:timereporting.data\\migrations\\20250420153008_timereportingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.data\\migrations\\20250420135817_time_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|solutionrelative:timereporting.data\\migrations\\20250420135817_time_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.data\\migrations\\20250420130710_timedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|solutionrelative:timereporting.data\\migrations\\20250420130710_timedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.data\\migrations\\20250425152554_timereportingdbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|solutionrelative:timereporting.data\\migrations\\20250425152554_timereportingdbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|c:\\users\\\u05E9\u05D4\u05DD\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\timereporting\\timereporting.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030365B3-9E4E-4C6B-A82B-F3626A3E19FF}|TimeReporting.Data\\TimeReporting.Data.csproj|solutionrelative:timereporting.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TimeReportingDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 511,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaveRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting\\Controllers\\LeaveRequestController.cs",
+              "RelativeDocumentMoniker": "TimeReporting\\Controllers\\LeaveRequestController.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting\\Controllers\\LeaveRequestController.cs",
+              "RelativeToolTip": "TimeReporting\\Controllers\\LeaveRequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:34:39.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Service\\LeaveRequestService.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Service\\LeaveRequestService.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Service\\LeaveRequestService.cs",
+              "RelativeToolTip": "TimeReporting.Service\\LeaveRequestService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwFIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:15:22.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILeaveRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\Interface\\ILeaveRequestService.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Core\\Interface\\ILeaveRequestService.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\Interface\\ILeaveRequestService.cs",
+              "RelativeToolTip": "TimeReporting.Core\\Interface\\ILeaveRequestService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:09:29.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DTOLeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\DTOs\\DTOLeaveRequest.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Core\\DTOs\\DTOLeaveRequest.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\DTOs\\DTOLeaveRequest.cs",
+              "RelativeToolTip": "TimeReporting.Core\\DTOs\\DTOLeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:16:38.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Service\\Class1.cs",
+              "RelativeToolTip": "TimeReporting.Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T23:02:44.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkLogService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Service\\WorkLogService.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Service\\WorkLogService.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Service\\WorkLogService.cs",
+              "RelativeToolTip": "TimeReporting.Service\\WorkLogService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:53:44.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DTOWorkLog.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\DTOs\\DTOWorkLog.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Core\\DTOs\\DTOWorkLog.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\DTOs\\DTOWorkLog.cs",
+              "RelativeToolTip": "TimeReporting.Core\\DTOs\\DTOWorkLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:09:01.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DTOUser.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\DTOs\\DTOUser.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Core\\DTOs\\DTOUser.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\DTOs\\DTOUser.cs",
+              "RelativeToolTip": "TimeReporting.Core\\DTOs\\DTOUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:09:02.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ENUMS.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\Entities\\ENUMS.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Core\\Entities\\ENUMS.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\Entities\\ENUMS.cs",
+              "RelativeToolTip": "TimeReporting.Core\\Entities\\ENUMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:05:51.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\Entities\\User.cs",
+              "RelativeToolTip": "TimeReporting.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:18:00.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkLogController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting\\Controllers\\WorkLogController.cs",
+              "RelativeDocumentMoniker": "TimeReporting\\Controllers\\WorkLogController.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting\\Controllers\\WorkLogController.cs",
+              "RelativeToolTip": "TimeReporting\\Controllers\\WorkLogController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAawC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:56:37.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Core\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\Interface\\IUserService.cs",
+              "RelativeToolTip": "TimeReporting.Core\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:54:23.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IWorkLogService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\Interface\\IWorkLogService.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Core\\Interface\\IWorkLogService.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\Interface\\IWorkLogService.cs",
+              "RelativeToolTip": "TimeReporting.Core\\Interface\\IWorkLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:13:11.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting\\Program.cs",
+              "RelativeDocumentMoniker": "TimeReporting\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting\\Program.cs",
+              "RelativeToolTip": "TimeReporting\\Program.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAAMUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:58:03.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TimeReporting/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-03T19:43:29.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250503182030_TimeReporting.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\Migrations\\20250503182030_TimeReporting.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Data\\Migrations\\20250503182030_TimeReporting.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\Migrations\\20250503182030_TimeReporting.cs",
+              "RelativeToolTip": "TimeReporting.Data\\Migrations\\20250503182030_TimeReporting.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:20:36.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WorkLog.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\Entities\\WorkLog.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Core\\Entities\\WorkLog.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Core\\Entities\\WorkLog.cs",
+              "RelativeToolTip": "TimeReporting.Core\\Entities\\WorkLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:52:16.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting\\appsettings.json",
+              "RelativeDocumentMoniker": "TimeReporting\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting\\appsettings.json",
+              "RelativeToolTip": "TimeReporting\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T18:17:33.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\DataContext.cs",
+              "RelativeToolTip": "TimeReporting.Data\\DataContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:17:02.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "TimeReporting.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:46:38.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250420135817_TIME_DB.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\Migrations\\20250420135817_TIME_DB.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Data\\Migrations\\20250420135817_TIME_DB.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\Migrations\\20250420135817_TIME_DB.cs",
+              "RelativeToolTip": "TimeReporting.Data\\Migrations\\20250420135817_TIME_DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:34:26.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250420153008_TimeReportingDB.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\Migrations\\20250420153008_TimeReportingDB.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Data\\Migrations\\20250420153008_TimeReportingDB.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\Migrations\\20250420153008_TimeReportingDB.cs",
+              "RelativeToolTip": "TimeReporting.Data\\Migrations\\20250420153008_TimeReportingDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:34:22.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250420130710_TimeDB.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\Migrations\\20250420130710_TimeDB.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Data\\Migrations\\20250420130710_TimeDB.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\Migrations\\20250420130710_TimeDB.cs",
+              "RelativeToolTip": "TimeReporting.Data\\Migrations\\20250420130710_TimeDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:34:27.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250425152554_TimeReportingDBB.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\Migrations\\20250425152554_TimeReportingDBB.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Data\\Migrations\\20250425152554_TimeReportingDBB.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\Migrations\\20250425152554_TimeReportingDBB.cs",
+              "RelativeToolTip": "TimeReporting.Data\\Migrations\\20250425152554_TimeReportingDBB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:34:20.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Data\\Class1.cs",
+              "RelativeToolTip": "TimeReporting.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:20:30.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TimeReportingDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-03T18:03:34.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 62,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Service\\UserService.cs",
+              "RelativeDocumentMoniker": "TimeReporting.Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting.Service\\UserService.cs",
+              "RelativeToolTip": "TimeReporting.Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAHiFwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:03:24.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TimeReporting\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D4\u05DD\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\TimeReporting\\TimeReporting\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TimeReporting\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwEIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:03:38.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
