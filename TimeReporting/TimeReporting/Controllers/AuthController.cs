@@ -83,8 +83,6 @@ namespace TimeReporting.Controllers
 
         private bool VerifyPassword(string providedPassword, string storedHashedPassword)
         {
-            // **חשוב:** יש ליישם כאן לוגיקה של השוואת סיסמאות מגובבות עם מלח.
-            // זהו יישום פשוט ולא מאובטח לצורך הדוגמה בלבד.
             return providedPassword == storedHashedPassword;
         }
 
